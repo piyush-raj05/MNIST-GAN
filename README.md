@@ -1,1 +1,1 @@
-# MNIST-GAN
+<h1> MNIST-GAN </h1>
